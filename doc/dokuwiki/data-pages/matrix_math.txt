@@ -1,0 +1,5 @@
+
+$\theta_0   *  x_1$
+
+
+<math display=inline>\sum_{i=0}^\infty 2^{-i}</math>

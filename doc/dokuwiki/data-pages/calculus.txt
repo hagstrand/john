@@ -1,0 +1,99 @@
+==Definitions and Symbols==
+
+See http://xahlee.info/comp/unicode_math_operators.html for a list of unicode math symbols.
+
+'''Real Number''' ℝ.  All the numbers, including fractions, decimals, and negatives.  Everything except the square-root of -1.  Represented by ℝ.
+
+'''Natural Number''' ℕ.  The counting numbers.  Positive integers.  Represented by ℕ.
+
+'''Transcendental Number'''.  pi. π
+
+'''pi''' π.  Constant 3.14.
+
+'''Scalar'''.  A single number.  Represented by a lowercase italic variable name, like ''n''.
+
+'''Element of''' ∈.  For example, we might say Let ''s'' ∈ ℝ represent the slope, defining ''s'' as a real number.  Or we might say Let ''n'' ∈ ℕ represent the number of units, defining ''n'' as a natural number.
+
+'''Vector'''.  An array of numbers.  Represented by a boldface lowercase italic variable name, like '''''x'''''.
+
+
+
+
+== Unicode characters for math equations ==
+
+{|
+|function||U+0192||ƒ||LATIN SMALL LETTER F WITH HOOK
+|-
+|integral||U+222B||∫||INTEGRAL
+|-
+|set of real numbers||U+211D||ℝ||DOUBLE-STRUCK CAPITAL R
+|-
+|}
+
+ƒ(x)
+
+<div class='equation'>
+ƒ(x)
+</div>
+
+
+Calculus (from Latin calculus, literally 'small pebble', used for counting and calculations, like on an abacus)[1] is the mathematical study of continuous change, in the same way that
+
+  * geometry: the study of shape
+  * algebra: the study of generalizations of arithmetic operations
+  * calculus: the mathematical study of continuous change
+  * differential calculus: rates of change and slopes of curves
+  * integral calculus: accumulation of quantities and the areas under and between curves
+
+  * These two branches are related to each other by the fundamental theorem of calculus.
+  * Both branches make use of the fundamental notions of convergence of infinite sequences and infinite series to a well-defined limit.
+  * Generally, modern calculus is considered to have been developed in the 17th century by Isaac Newton and Gottfried Leibniz.
+
+Fundamental theorem of calculus: differentiation is the reverse of integration.
+
+  * Differentiate
+  * Integrate
+
+  * Differential
+  * Integral
+
+  * Differentiate - to find the derivative of a function
+  * Differentiation - the process of finding the derivative of a function
+
+  * Differential
+  * Derive
+  * Derivative - in geometry, the slope of the tangent line of the function at the point of tangency
+
+Differential equations are equations involving derivatives.
+
+Here is an animation of the tangent line along a curved line.
+https://www.youtube.com/watch?v=jGJdd0kzZDM
+
+{{#evt:
+service=youtube
+|https://www.youtube.com/watch?v=jGJdd0kzZDM
+|alignment=right
+}}
+
+<embedvideo service='youtube'>https://www.youtube.com/watch?v=jGJdd0kzZDM</embedvideo>
+
+
+Limit
+
+Infinitesimal - an infinitely small number, often represented by dx and dy. dx/dy is their ratio.
+
+Limits - small numbers represented by epsilon, delta.  Describe the value of a function at certain input in terms of its values at a nearby input.
+
+Application
+Optimizer
+An optimal solution is desired
+Problem can be mathematically modeled
+
+Differential calculus -  the study of the definition, properties, and applications of the derivative of a function.
+
+f is the original function, and f-prime is its derivative.
+if f(x) = x2 is the squaring function,
+then f′(x) = 2x is its derivative, the doubling function.
+
+Differential equation is derived from the original function.
+The original function is input to the differential function.
