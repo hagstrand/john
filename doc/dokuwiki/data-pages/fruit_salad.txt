@@ -1,7 +1,0 @@
-Optional spices for a fruit salad.
-
-  * honey
-  * tahini
-  * lemon
-  * cardamon, ground
-  * cinnamon

@@ -1,2 +1,2 @@
 # john
-john.hagstrand.com personal website
+hagstrand.com personal website
